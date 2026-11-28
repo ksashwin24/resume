@@ -51,7 +51,7 @@ Enthusiastic and detail-oriented customer service representative with strong com
 - Conducted remote desktop and mobile sessions to troubleshoot and resolve complex problems
 - Documented case logs and issues for tracking, escalation and future reference
 - Handled up to 4 concurrent chat and 2 remote sessions simultaneously
-- Identified customer requirements and recommended suitable services when possoble
+- Identified customer requirements and recommended suitable services when possible
 
 == Education
 *B.Tech (Electronics and Communication Engineering)*\
